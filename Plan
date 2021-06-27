@@ -9,3 +9,12 @@ Stats
     Followers
     Views
     Likes
+
+
+    {
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
